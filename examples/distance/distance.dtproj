@@ -1,0 +1,6 @@
+{
+    "language": "JS2604",
+    "outputFile": "../distance.js",
+    "format": "CommonJS",
+    "dependencies": ""
+}

@@ -1,0 +1,1 @@
+node ../jacy/src/main.js src/kampasrc.js --output src/kampa.js --model src/kampa.js --diagrams diagrams

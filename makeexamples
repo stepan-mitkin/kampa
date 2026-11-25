@@ -1,0 +1,1 @@
+node ./src/main.js examples/distance --output examples/distance_kmp.js --model examples/distance_kmp.json --diagrams diagrams/distance

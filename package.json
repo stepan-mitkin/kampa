@@ -1,0 +1,27 @@
+{
+  "name": "kampa",
+  "version": "0.0.1",
+  "description": "Build your JavaScript app using a model and a set of independent functions.",
+  "homepage": "https://github.com/stepan-mitkin/kampa#readme",
+  "bugs": {
+    "url": "https://github.com/stepan-mitkin/kampa/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepan-mitkin/kampa.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Stepan Mitkin",
+  "type": "commonjs",
+  "main": "main.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "escodegen": "^2.1.0",
+    "esprima": "^4.0.1"
+  }  
+}
