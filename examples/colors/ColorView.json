@@ -1,0 +1,9 @@
+{
+    "methods": [
+        "render",
+        "setColor"
+    ],
+    "services": [
+        "Canvas"
+    ]
+}

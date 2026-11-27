@@ -1,0 +1,35 @@
+{
+    "methods": [
+        "render",
+        "init"
+    ],
+    "children": [
+        {
+            "type": "ThreeView",
+            "data": {
+                "top": 50,
+                "left": 200
+            },
+            "children": [
+                {
+                    "type": "Header",
+                    "key": "top",
+                    "name": "top"
+                },
+                {
+                    "type": "List",
+                    "key": "left",
+                    "name": "colorList",
+                    "events": {
+                        "onItemClick": "onColorItemClick"
+                    }
+                },
+                {
+                    "type": "ColorView",
+                    "key": "right",
+                    "name": "view"
+                }
+            ]
+        }
+    ]
+}
